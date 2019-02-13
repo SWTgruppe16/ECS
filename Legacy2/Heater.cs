@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Legacy2
 {
-    public class Heater
+    public class Heater : IHeater
     {
     }
 }

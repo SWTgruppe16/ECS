@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Legacy2
 {
-    class Sensor
+    class TempSensor : ISensor
     {
     }
 }
